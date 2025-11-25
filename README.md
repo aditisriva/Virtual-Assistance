@@ -1,1 +1,1 @@
-# Virtual-Assistance
+Meet Shifra, my virtual assistant. She can tell you the time, date, and her identity when you ask her. Apart from that, she can also open several apps such as Calculator, YouTube, and WhatsApp on your command.
